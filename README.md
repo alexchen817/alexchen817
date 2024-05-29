@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Alex Chen :shipit:
 ## About me
-- 💻I’m currently learning C++
+- 💻I’m currently learning C++ & Python
 - 📫 You can reach me at: alexanderchen817@gmail.com
 - 🔭 I’m currently working on creating my own website
 - 🤖 I competed in the VEX Robotics High School Competition at an international level
