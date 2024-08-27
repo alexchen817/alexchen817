@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Alex Chen :shipit:
 ## About me
+- Studying Computer Science @ SFU, Expected 2028 Graduation
 - 💻I’m currently learning C++ & Python
 - 📫 You can reach me at: alexanderchen817@gmail.com
 - 🤖 Represented British Columbia at the VEX V5 High School Robotics World Championship
