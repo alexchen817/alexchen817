@@ -2,10 +2,11 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=alexanderchen817)
 ## About me
 - Studying Computer Science @ SFU, Expected 2028 Graduation
-- 💻I’m currently learning C++ & Python
+- 💻I’m currently learning C++ Data Structures & Algorithms
+- On the side I am learning Web Development!
 - 📫 You can reach me at: aca343@sfu.ca
 - 🤖 Represented British Columbia at the VEX V5 High School Robotics World Championship
   - Team 1010 (Ten Ton Robotics) Alumni
-### Hobbies and Fun Facts!
+### Hobbies and Favorite Food
 - 🎮 I like biking or ice skating in my spare time
 - 🍜 My favourite food is ramen
