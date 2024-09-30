@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Alex Chen :shipit:
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 ## About me
 - Studying Computer Science @ SFU, Expected 2028 Graduation
 - 💻I’m currently learning C++ & Python
