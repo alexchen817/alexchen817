@@ -6,7 +6,7 @@
 - On the side I am learning Web Development!
 - 📫 You can reach me at: aca343@sfu.ca
 - 🤖 Represented British Columbia at the VEX V5 High School Robotics World Championship
-  - Team 1010 (Ten Ton Robotics) Alumni
+  - Team 1010 (Ten Ton Robotics) 2023 Alumni
 ### Hobbies and Favorite Food
 - 🎮 I like biking or ice skating in my spare time
 - 🍜 My favourite food is ramen
