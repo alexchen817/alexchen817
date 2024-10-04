@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Alex Chen :shipit:
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=alexanderchen817)
 ## About me
-- Studying Computer Science @ SFU, Expected 2028 Graduation
+- Studying Computer Science @ SFU, Expected 2028 
 - 💻I’m currently learning C++ Data Structures & Algorithms
 - On the side I am learning Web Development!
 - 📫 You can reach me at: aca343@sfu.ca
