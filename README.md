@@ -2,7 +2,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=alexanderchen817)
 ## About me
 - Studying Computer Science @ SFU, Expected 2028 
-- 💻I’m currently learning C++ Data Structures & Algorithms
+- 💻I’m currently learning Data Structures & Algorithms in C++!
 - On the side I am learning Web Development!
 - 📫 You can reach me at: aca343@sfu.ca
 - 🤖 Represented British Columbia at the VEX V5 High School Robotics World Championship
