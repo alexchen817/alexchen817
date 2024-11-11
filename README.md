@@ -8,5 +8,5 @@
 - 🤖 Represented British Columbia at the VEX V5 High School Robotics World Championship
   - Team 1010 (Ten Ton Robotics) 2023 Alumni
 ### Hobbies and Favorite Food
-- 🎮 I like biking or ice skating in my spare time
+- 🎮 I like playing golf, skiing, biking, and ice skating in my spare time
 - 🍜 My favourite food is ramen
