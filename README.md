@@ -10,3 +10,5 @@
 ### Hobbies and Favorite Food
 - 🎮 I like playing golf, skiing, biking, and ice skating in my spare time
 - 🍜 My favourite food is ramen
+
+### Languages and Tools
