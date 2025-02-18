@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, Java, and NodeJS**
 
-- 👨‍💻 All of my projects are available at [github.com/alexchen817](github.com/alexchen817)
+- 👨‍💻 All of my projects are available at [[github.com/alexchen817](https://github.com/alexchen817)](alexchen817)
 
 - 📫 How to reach me **aca343@sfu.ca**
 
