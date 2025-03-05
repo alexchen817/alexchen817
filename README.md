@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aca343@sfu.ca**
 
-- ⚡ Fun fact **I like playing golf**
+- ⚡ Fun fact **I like skiing and playing golf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
