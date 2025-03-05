@@ -11,7 +11,7 @@
 
 - ⚡ **I like skiing and playing golf**
 
-- Fun fact about  me: **I represented BC at the VEX world championships in Dallas, Texas**
+- Fun fact about  me: **I represented BC at the 2023 VEX World Championship in Dallas, Texas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
