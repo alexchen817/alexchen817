@@ -11,7 +11,8 @@
 
 - ⚡ **I like skiing and playing golf**
 
-- Fun fact about  me: **I represented BC at the 2023 VEX World Championship in Dallas, Texas**
+- Fun fact about  me: **I represented BC at the 2022 VEX World Championship in Dallas, Texas**
+  - 1010 Robotics V5RC Alumni 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
