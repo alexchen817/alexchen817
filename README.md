@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchen817&label=Profile%20views&color=0e75b6&style=flat" alt="alexchen817" /> </p>
 
-- 🌱 I’m currently learning **SQL, Java, and Mobile Development**
+- 🌱 I’m currently learning **SQL, Mobile Development and Control Theory**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexchen817](https://github.com/alexchen817)
 
