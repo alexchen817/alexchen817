@@ -14,7 +14,7 @@
 - Fun fact about  me: **I represented BC at the 2022 VEX World Championship in Dallas, Texas**
   - 1010 Robotics V5RC Alumni
 - Currently Competing in the VEXU Robotics Competition on Team TNTN
-  - [Website](https://tntnvex.com)
+  - Check us out [here](https://tntnvex.com)!
   - Currently ranked #1 in the world for the Robot Skills Challenge
 
 <h3 align="left">Connect with me:</h3>
