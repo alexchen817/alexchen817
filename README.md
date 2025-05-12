@@ -16,6 +16,7 @@
 - Currently Competing in the VEXU Robotics Competition on Team TNTN
   - Check us out [here](https://tntnvex.com)!
   - Currently ranked #1 in the world for the Robot Skills Challenge
+  - 2025 VEX U World Champions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
