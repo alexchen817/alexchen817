@@ -15,8 +15,9 @@
   - 1010 Robotics V5RC Alumni
 - Currently Competing in the VEXU Robotics Competition on Team TNTN
   - Check us out [here](https://tntnvex.com)!
-  - Currently ranked #1 in the world for the Robot Skills Challenge
   - 2025 VEX U World Champions
+  - 2025 VEX U Excellence Award Winner
+  - 2025 VEX U Robot Skills Challenge 1st Place 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
