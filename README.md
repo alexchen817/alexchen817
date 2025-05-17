@@ -11,9 +11,7 @@
 
 - ⚡ **I like skiing and playing golf**
 
-- Fun fact about  me: **I represented BC at the 2022 VEX World Championship in Dallas, Texas**
-  - 1010 Robotics V5RC Alumni
-- Currently Competing in the VEXU Robotics Competition on Team TNTN
+- Currently Competing in the VEXU Robotics Competition on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
   - Check us out [here](https://tntnvex.com)!
   - 2025 VEX U World Champions
   - 2025 VEX U Excellence Award Winner
