@@ -11,11 +11,12 @@
 
 - ⚡ **I like skiing and playing golf**
 
-- Currently Competing in the VEXU Robotics Competition on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
+- Currently Competing in the VEX U Robotics Competition on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
   - Check us out [here](https://tntnvex.com)!
   - 2025 VEX U World Champions
   - 2025 VEX U Excellence Award Winner
-  - 2025 VEX U Robot Skills Challenge 1st Place 
+  - 2025 VEX U Robot Skills Challenge 1st Place
+  - Featured on Canadian Broadcasting Corporation (CBC) National News
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
