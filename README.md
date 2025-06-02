@@ -17,6 +17,7 @@
   - 2025 VEX U Excellence Award Winner
   - 2025 VEX U Robot Skills Challenge 1st Place
   - Featured on Canadian Broadcasting Corporation (CBC) National News
+      - Check out the article [here](https://www.cbc.ca/player/play/video/9.6778692)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
