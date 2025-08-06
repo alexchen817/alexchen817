@@ -24,4 +24,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nextjs,docker,neovim,vscode,git,github,obsidian,linux)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,js,html,css,react,nextjs,docker,neovim,vscode,git,github,obsidian,linux)
