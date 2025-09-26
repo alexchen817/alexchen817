@@ -13,11 +13,13 @@
 
 - Currently Competing in the VEX U Robotics Competition on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
   - Check us out [here](https://tntnvex.com)!
+  - Currently 1st place in the world for the 2026 VEX U Skills Challenge
+  - Featured on Canadian Broadcasting Corporation (CBC) National News
+      - Check out the article [here](https://www.cbc.ca/player/play/video/9.6778692)!
   - 2025 VEX U World Champions
   - 2025 VEX U Excellence Award Winner
   - 2025 VEX U Robot Skills Challenge 1st Place
-  - Featured on Canadian Broadcasting Corporation (CBC) National News
-      - Check out the article [here](https://www.cbc.ca/player/play/video/9.6778692)!
+
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <a href="https://linkedin.com/in/alexchen817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexchen817" height="30" width="40" /></a>
