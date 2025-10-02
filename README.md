@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Control Theory, Web & App development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexchen817](https://github.com/alexchen817)
-
 - 📫 How to reach me **aca343@sfu.ca**
 
 - ⚡ **I like skiing, golfing, and speedcubing!**
