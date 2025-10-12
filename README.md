@@ -19,9 +19,13 @@
   - 2025 VEX U Robot Skills Challenge 1st Place
  
 ### Photos of TNTN's 2025 robots! 
+<p float="left">
 <img src="images/meeseBots.jpg" alt="Meese Bots In The Dome" width="400" height="400">
 <img src="images/meeseBotsChampions.jpg" alt="Meese Bots at Pit Station" width="400" height="400">
+<img src="images/meeeseWithBanner" alt="Meese Bots With Banner" width="400" height="400">
 <img src="images/meeseAndPlatt.jpg" alt="Meese Bots and PLATT In Finals Match" width="400" height="400">
+</p>
+
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <a href="https://linkedin.com/in/alexchen817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexchen817" height="30" width="40" /></a>
