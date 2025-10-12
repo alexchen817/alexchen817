@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchen817&label=Profile%20views&color=0e75b6&style=flat" alt="alexchen817" /> </p>
 
-- 🌱 I’m currently learning **Control Theory, Web & App development**
+- 🌱 I’m currently learning **Spring Boot, Backend Development, and Control Theory**
 
 - 📫 How to reach me **aca343@sfu.ca**
 
