@@ -22,7 +22,7 @@
 <p float="left">
 <img src="images/meeseBots.jpg" alt="Meese Bots In The Dome" width="400" height="400">
 <img src="images/meeseBotsChampions.jpg" alt="Meese Bots at Pit Station" width="400" height="400">
-<img src="images/meeeseWithBanner.jpg" alt="Meese Bots With Banner" width="400" height="400">
+<img src="images/meeseWithBanner.jpg" alt="Meese Bots With Banner" width="400" height="400">
 <img src="images/meeseAndPlatt.jpg" alt="Meese Bots and PLATT In Finals Match" width="400" height="400">
 </p>
 
