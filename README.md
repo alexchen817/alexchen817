@@ -9,12 +9,13 @@
 
 - ⚡ **I like skiing, golfing, and badminton!**
 
-- Currently Competing in the [VEX U Robotics Collegiate Competition](https://recf.org/teams/competition/vex-u-robotics-competition/) on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
+- Currently competing in the [VEX U Robotics Collegiate Competition](https://recf.org/teams/competition/vex-u-robotics-competition/) on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
   - Check us out [here](https://tntnvex.com)!
+  - 2025 VEX U World Champions, Excellence, and Skills Challenge 1st place
   - Currently 1st place in the world for the 2026 VEX U Skills Challenge
   - Featured on Canadian Broadcasting Corporation (CBC) National News
       - Check out the article [here](https://www.cbc.ca/player/play/video/9.6778692)!
-  - 2025 VEX U World Champions, Excellence, and Skills Challenge 1st place
+
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <a href="https://linkedin.com/in/alexchen817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexchen817" height="30" width="40" /></a>
