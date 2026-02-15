@@ -11,7 +11,8 @@
 
 - Currently competing in the [VEX U Robotics Collegiate Competition](https://recf.org/teams/competition/vex-u-robotics-competition/) on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
   - Check us out [here](https://tntnvex.com)!
-  - 2025 VEX U World Champions, Excellence, and Skills Challenge 1st place
+  - 2025 VEX U World Champions, Excellence, and Skills Challenge 1st place (Triple Crown)
+  - 2026 VEX U Mecha Mayhem Showcase Champions, Excellence, and Skills Challenge 1st place (Triple Crown)
   - Currently 1st place in the world for the 2026 VEX U Skills Challenge
   - Featured on Canadian Broadcasting Corporation (CBC) National News
       - Check out the article [here](https://www.cbc.ca/player/play/video/9.6778692)!
