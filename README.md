@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchen817&label=Profile%20views&color=0e75b6&style=flat" alt="alexchen817" /> </p>
 
-- 🌱 I’m currently learning **Embedded Systems, FreeRTOS**
+- 🌱 I’m currently learning **Embedded Systems, FreeRTOS, ESP-IDF**
 
 - 📫 How to reach me: **aca343@sfu.ca**
 
