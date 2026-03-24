@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchen817&label=Profile%20views&color=0e75b6&style=flat" alt="alexchen817" /> </p>
 
-- 🌱 I’m currently learning **Embedded Systems Software, FreeRTOS, ESP-IDF**
+- I'm interested in **Embedded Systems and Systems Software**
+  
+- I’m currently learning **FreeRTOS and ESP-IDF!**
 
-- 📫 How to reach me: **aca343@sfu.ca**
+- How to reach me: **aca343@sfu.ca**
 
-- ⚡ **I like skiing, golfing, and badminton!**
+- **I like skiing, golfing, and badminton!**
 
 - Currently competing in the [VEX U Robotics Collegiate Competition](https://recf.org/teams/competition/vex-u-robotics-competition/) on Team TNTN, Representing British Columbia at the VEX Robotics World Championship
   - Check us out [here](https://tntnvex.com)!
