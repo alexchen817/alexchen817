@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchen817&label=Profile%20views&color=0e75b6&style=flat" alt="alexchen817" /> </p>
 
-- I'm interested in **Embedded Systems and Systems Software**
+- I'm interested in **Embedded Software and Low-level software!**
   
 - I’m currently learning **FreeRTOS and ESP-IDF!**
 
