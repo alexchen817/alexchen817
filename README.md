@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchen817&label=Profile%20views&color=0e75b6&style=flat" alt="alexchen817" /> </p>
 
-- I'm interested in **Embedded Software/Firmware!**
+- I'm interested in **Embedded Software/Firmware and Robotics!**
   
 - I’m currently learning **FreeRTOS and ESP-IDF!**
+  - I want to learn STM32 next!
 
 - How to reach me: **aca343@sfu.ca**
 
