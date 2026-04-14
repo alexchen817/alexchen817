@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A 3rd year Software Systems Student seeking Co-op</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchen817&label=Profile%20views&color=0e75b6&style=flat" alt="alexchen817" /> </p>
-
 - I'm interested in **Embedded Software/Firmware and Robotics!**
   
 - I’m currently learning **FreeRTOS and ESP-IDF!**
