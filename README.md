@@ -14,8 +14,8 @@
   - Check us out [here](https://tntnvex.com)!
 
 
-<h3 align="left">Connect with me on Linkedin:</h3>
-<a href="https://linkedin.com/in/alexchen817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexchen817" height="30" width="40" /></a>
+### Connect with me: [LinkedIn](https://linkedin.com/in/alexchen817/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
