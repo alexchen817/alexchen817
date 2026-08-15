@@ -16,7 +16,3 @@
 
 ### Connect with me: [LinkedIn](https://linkedin.com/in/alexchen817/)
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,java,js,html,css,react,nextjs,docker,neovim,vscode,git,github,obsidian,linux)
