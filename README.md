@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 - I'm currently working at BC Hydro
+
 - I'm interested in **Embedded Software/Firmware and Robotics!**
   
 - I’m currently learning **FreeRTOS and ESP-IDF!**
