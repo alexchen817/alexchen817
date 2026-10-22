@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A 3rd year Software Systems Student seeking Co-op</h3>
-
+- I'm currently working at BC Hydro
 - I'm interested in **Embedded Software/Firmware and Robotics!**
   
 - I’m currently learning **FreeRTOS and ESP-IDF!**
